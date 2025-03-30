@@ -3,6 +3,6 @@ int main(){
     int n, i, mul;
     for (i=1; i<=10; i++){
         mul = i*n;
-        printf("%d x %d = %d", n, i, mul);
+        printf("%d x %d = %d\n", n, i, mul);
     }
 }
