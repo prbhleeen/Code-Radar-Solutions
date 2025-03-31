@@ -1,5 +1,3 @@
-#include<stdio.h>
-
 
 int fibonacciSeries(int n){
     for (int i=0; i<n; i++){
